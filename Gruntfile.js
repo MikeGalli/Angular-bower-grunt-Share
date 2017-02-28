@@ -39,7 +39,7 @@ module.exports = function(grunt) {
       },
       pages: {
         options: {
-          remote: 'git@github.com:your_github_user/Angular-bower-grunt-Share.git',
+          remote: 'git@github.com:MikeGalli/Angular-bower-grunt-Share.git',
           branch: 'gh-pages'
         }
       }
